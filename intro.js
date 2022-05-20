@@ -1,0 +1,1 @@
+// Bu bir egitim calismasidir.
